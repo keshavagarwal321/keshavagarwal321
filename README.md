@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @keshavagarwal321
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning latest techs
+- 🌱 I’m currently learning the latest techs
 - 📫 How to reach me - 
 - Mail Id. - akeshav160@gmail.com
 
